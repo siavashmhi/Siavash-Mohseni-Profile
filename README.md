@@ -13,14 +13,12 @@
   </li>
   <li>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /><br />
-   good knowledge in functional programming, oop, async, dom and ..
   </li>
   <li>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   </li>
   <li>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br />
-    functional components, react hooks, lifecycles, rest api, graphql, and ..
   </li>
 </ul>
 
@@ -29,7 +27,6 @@
 <ul>
   <li>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><br />
-   good knowledge in functional programming, object oriented, async, web scraping, and ...
   </li>
   <li>
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
