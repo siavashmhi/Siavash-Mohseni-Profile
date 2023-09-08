@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>I am Junior DevOps Engineer.<br>I'm interested in Linux and Software development.<br>I love my work and i try to increase my skills everyday.<br></h2>
+I am a Junior DevOps engineer. I love my work and try to increase my skills every day. As a lifelong learner, I stay up to date with the latest advancements in the DevOps field and enjoy tackling complex challenges through innovative solutions. I am a strong believer in the power of collaboration and thrive in cross-functional teams, where I can contribute my technical skills while learning from and collaborating with talented professionals. 
 
 
 ## 🌐 Socials:
