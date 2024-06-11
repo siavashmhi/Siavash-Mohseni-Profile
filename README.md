@@ -12,6 +12,7 @@
 <h2> Tech Stack </h2>
 <p align="left">
 <img src="https://cdn.simpleicons.org/python/3776AB" alt="python" width="40" height="40"/>
+<img width="10" />
 <img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40"/>
 <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="kubernetes" width="40" height="40"/>
 <img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" alt="helm" width="40" height="40"/>
