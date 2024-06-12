@@ -23,10 +23,6 @@
 <img width="5"/>
 <img src="https://cdn.simpleicons.org/terraform/7B42BC" alt="terraform" width="40" height="40"/>
 <img width="5"/>
-<img src="https://cdn.simpleicons.org/prometheus/E6522C" alt="prometheus" width="40" height="40"/>
-<img width="5"/>
-<img src="https://cdn.simpleicons.org/grafana/F46800" alt="grafana" width="40" height="40"/>
-<img width="5"/>
 <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
 <img width="5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
