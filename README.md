@@ -44,5 +44,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql logo"/>
 <img width="5"/>
 <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="40" height="40" alt="rabbitmq logo"/>
-<img width="5"/>
 </p>
