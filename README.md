@@ -13,35 +13,35 @@
 <p align="left">
 <img src="https://cdn.simpleicons.org/python/3776AB" alt="python" width="50" height="50"/>
 <img width="5"/>
-<img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/docker/2496ED" alt="docker" width="50" height="50"/>
 <img width="5"/>
-<img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="kubernetes" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="kubernetes" width="50" height="50"/>
 <img width="5"/>
-<img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" alt="helm" width="40" height="40"/>
+<img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" alt="helm" width="50" height="50"/>
 <img width="5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="50" height="50"/>
 <img width="5"/>
-<img src="https://cdn.simpleicons.org/terraform/7B42BC" alt="terraform" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/terraform/7B42BC" alt="terraform" width="50" height="50"/>
 <img width="5"/>
-<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws" alt="aws" width="50" height="50"/>
 <img width="5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
 <img width="5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="argocd" width="50" height="50"/>
 <img width="5"/>
-<img src="https://seeklogo.com/images/T/traefik-logo-337D318F44-seeklogo.com.png" alt="traefik" width="40" height="40"/>
+<img src="https://seeklogo.com/images/T/traefik-logo-337D318F44-seeklogo.com.png" alt="traefik" width="50" height="50""/>
 <img width="5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="50" height="50"/>
 <img width="5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="prometheus" width="50" height="50"/>
 <img width="5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="gitlab logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" height="50" alt="gitlab logo"/>
 <img width="5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="jenkins logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="jenkins logo"/>
 <img width="5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="redis logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="redis logo"/>
 <img width="5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="postgresql logo"/>
 <img width="5"/>
-<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="40" height="40" alt="rabbitmq logo"/>
+<img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="50" height="50" alt="rabbitmq logo"/>
 </p>
